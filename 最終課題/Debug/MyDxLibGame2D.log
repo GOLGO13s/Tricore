@@ -1,0 +1,3 @@
+﻿  Shot.cpp
+c:\users\1701326\desktop\最終課題\shot.cpp(66): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  MyDxLibGame2D.vcxproj -> C:\Users\1701326\Desktop\最終課題\Debug\MyDxLibGame2D.exe
